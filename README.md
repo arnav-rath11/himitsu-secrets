@@ -1,134 +1,168 @@
+<p align="center">
+  <img src="./logo.png" width="120" />
+</p>
 
-# 🎭 Himitsu
+<h1 align="center">🎭 Himitsu</h1>
 
-**Himitsu** is a collection of social deduction and party games designed to bring people together through deception, deduction, and fun.
+<p align="center">
+  <b>Social Deduction • Party Games • Chaos & Fun</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mode-Online%20%2B%20Offline-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0.2-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 About
+
+**Himitsu** is a collection of party games built around
+**deception, deduction, and pure chaos.**
+
+Play with friends, lie convincingly, and figure out who’s bluffing.
 
 ---
 
 ## 🎮 Game Modes
 
-Himitsu currently includes three unique party games:
-
----
-
 ### 🕵️‍♂️ Imposter
 
-**About:**
-A social deduction game where one player doesn’t know the secret word.
+```
+• One player doesn't know the secret word  
+• Everyone gives one-word clues  
+• Blend in, discuss, and vote  
+```
 
-**How it works:**
+🎯 **Win**
 
-* All players get a secret word except the Imposter
-* Players give one-word clues
-* Imposter tries to blend in
-* Discussion + voting phase
-
-**Win Condition:**
-
-* Players win by catching the Imposter
-* Imposter wins by surviving OR guessing the word
+* Players → Catch the Imposter
+* Imposter → Survive or guess the word
 
 ---
 
 ### 👤 Guess Who Am I
 
-**About:**
-Everyone knows your identity… except you.
+```
+• You don’t know your identity  
+• Others do  
+• Ask yes/no questions  
+```
 
-**How it works:**
+🏆 **Win**
 
-* Each player gets a hidden identity
-* Ask yes/no questions
-* Narrow down possibilities
-* Make your final guess
-
-**Win Condition:**
-
-* First correct guess wins
+* First correct guess
 
 ---
 
 ### 🎭 Secret Answers
 
-**About:**
-Answer in character and guess who asked what.
+```
+• Everyone writes a question  
+• Answer in character  
+• Guess who asked what  
+```
 
-**How it works:**
+🏆 **Win**
 
-* Players get secret identities
-* Everyone writes a question
-* Answer in character
-* Guess who asked each question
-
-**Win Condition:**
-
-* Points for correct guesses
-* Highest score wins
+* Highest score
 
 ---
 
 ## ✨ Features
 
-* 🌐 Online Multiplayer — Real-time rooms with friends
-* 📱 Offline Mode — Pass-and-play on one device
-* 💬 In-Game Chat
-* 🎵 Music via Spotify
-* 🌙 Dark / Light Mode
-* 📖 Built-in Game Guide
-* 📩 Feedback System
-* 🎨 Dynamic UI (smooth & responsive)
+```
+🌐 Real-time Multiplayer  
+📱 Offline Pass & Play  
+💬 In-game Chat  
+🎵 Spotify Music  
+🌙 Dark / Light Mode  
+📖 Game Guide  
+📩 Feedback System  
+🎨 Smooth UI  
+```
 
 ---
 
 ## 🌐 Website
 
-https://himitsu-sigma.vercel.app/
+🔗 https://himitsu-sigma.vercel.app/
+
 ---
 
 ## 📲 Download
 
-👉 **Himitsu v1.0.1**
-[Download APK](./himitsu-v1.0.1.apk)
+<p align="center">
 
-> ⚠️ Enable "Install from unknown sources" in your device settings.
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/himitsu-v1.0.2.apk">
+  <img src="https://img.shields.io/badge/⬇ Download APK-black?style=for-the-badge&logo=android"/>
+</a>
+
+</p>
+
+> ⚠️ Enable **Install from unknown sources**
 
 ---
 
 ## 🛠 Tech Stack
 
-* React 18
-* Vite
-* Tailwind CSS
-* Firebase (Firestore & Auth)
-* Framer Motion
-* Lucide React
+```
+⚛️ React 18  
+⚡ Vite  
+🎨 Tailwind CSS  
+🔥 Firebase (Auth + Firestore)  
+🎞 Framer Motion  
+🧩 Lucide Icons  
+```
 
 ---
 
 ## 🔮 Future Updates
 
-* 👤 Profile Integration — user accounts, stats & progress tracking
-* 🎙 Voice chat
-* 🤖 AI-generated questions
-* 🎮 More game modes
-* 🎨 UI improvements
+```
+👤 Profiles & Stats  
+🎙 Voice Chat  
+🤖 AI-generated Questions  
+🎮 More Game Modes  
+🎨 UI Improvements  
+```
 
 ---
 
-## 📩 Feedback & Support
+## 📩 Feedback
 
 📧 [himitsuownwer@gmail.com](mailto:himitsuownwer@gmail.com)
 
-> Send bugs or suggestions (screenshots help a lot!)
+> Send bugs or ideas (screenshots help a lot)
 
 ---
 
 ## 👤 Author
 
-**Arnav**
-Creator of Himitsu
+<p align="center">
+  <img src="https://github.com/arnav-rath11.png" width="110" style="border-radius:50%" />
+</p>
 
----
+<h1 align="center">ARNAV</h1>
+
+<p align="center">
+  <a href="https://github.com/arnav-rath11">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://discord.com/users/814432230889619456">
+    <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+  🎭 Creator of <b>Himitsu</b>
+</p>
+
+
+<p align="center">
+  ⭐ Star the repo if you like the project
+</p>
+
 
 
 
