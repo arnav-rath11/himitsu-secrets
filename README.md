@@ -95,7 +95,7 @@ Play with friends, lie convincingly, and figure out who’s bluffing.
 
 <p align="center">
 
-<a href="https://github.com/arnav-rath11/himitsu-secrets/raw/main/himitsu-v1.0.1.apk">
+<a href="https://github.com/arnav-rath11/himitsu-secrets/raw/main/himitsu-v1.0.2.apk">
   <img src="https://img.shields.io/badge/⬇ Download APK-black?style=for-the-badge&logo=android"/>
 </a>
 
